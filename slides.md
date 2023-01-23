@@ -62,7 +62,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
       <p>🦾 <b>Type Strong</b> - Written in TypeScript, with full TS docs</p>
     </v-clicks>
     <v-clicks>
-      <p>🛠️ <b>Flexible</b> - assing refs as arguments, fully customizable, configurable event filters and targets</p>
+      <p>🛠️ <b>Flexible</b> - Passing refs as arguments, fully customizable, configurable event filters and targets</p>
     </v-clicks>
     <v-clicks>
       <p>☁️ <b>No bundler required</b> - Usable via CDN, without any bundlers</p>
