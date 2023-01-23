@@ -44,10 +44,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 <div class="mb-5">
   <h1 class="!m-0 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-[#42d392] to-[#647eff]">Why VueUse?</h1>
-
-  <span class="!m-0 text-light-100/10">
-    Collection of Vue Composition Utilities
-  </span>
 </div>
 
 <div class="text-light-200">
