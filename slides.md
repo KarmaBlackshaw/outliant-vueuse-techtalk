@@ -36,9 +36,33 @@ lineNumbers: false
   </div>
 </div>
 
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
+<!-- -->
+
+---
+
+<div class="mb-5">
+  <h1 class="!m-0 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-[#42d392] to-[#647eff]">What's VueUse?</h1>
+</div>
+
+<div class="leading-relaxed text-light-200 flex flex-col gap-5">
+   <v-clicks>
+    <h4>Collection of Essential Vue Composition Utilities</h4>
+   </v-clicks>
+
+   <v-clicks>
+      <div class="flex gap-2 items-center">
+        <img src="https://github.com/antfu.png" class="h-[50px] w-[50px] rounded-full"/>
+        <div 
+          class="
+            flex flex-col
+          "
+        >
+          <div class="m-0 p-0">Anthony Fu</div>
+          <div class="m-0 p-0 text-sm text-gray-500">A fanatical open sourceror Core team member of Vite & Vue Working at NuxtLabs</div>
+        </div>
+    </div>
+   </v-clicks>
+</div>
 
 ---
 
@@ -78,9 +102,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
     </v-clicks>
 </div>
 
-<!--
-Here is another comment.
--->
+<!-- -->
 
 ---
 
