@@ -113,3 +113,42 @@ lineNumbers: false
 <div class="leading-relaxed text-light-200">
    In this talk, we’ll sample some hand picked functions to give you an idea of what’s possible with VueUse. Along the way we'll examine not only how they work but some practical applications for how you might use them. By the end of the talk, hopefully I would have equipped you with a pretty awesome tool set and wet your appetite to utilize VueUse in your own Vue.js projects.
 </div>
+
+<!-- -->
+
+---
+
+<div class="mb-5">
+  <h1 class="!m-0 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-[#42d392] to-[#647eff]">Let's proceed to coding!</h1>
+</div>
+
+<!-- -->
+
+---
+
+<div class="mb-5">
+  <h1 class="!m-0 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-[#42d392] to-[#647eff]">Questions</h1>
+</div>
+
+<div class="leading-relaxed text-light-200">
+    <v-clicks>
+      <p>
+        1. What is the css framework that we used during the talk
+      </p>
+    </v-clicks>
+    <v-clicks>
+      <p>
+        2. It is a function that leverages Vue's Composition API to encapsulate and reuse stateful logic 
+      </p>
+    </v-clicks>
+    <v-clicks>
+      <p>
+        3. What is the composable that we used during the talk
+      </p>
+    </v-clicks>
+    <v-clicks>
+      <p>
+        4. What can you say about vueuse? And will you apply it to your next vue project?
+      </p>
+    </v-clicks>
+</div>
